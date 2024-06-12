@@ -1,4 +1,4 @@
-let timerId; // переменная, которая будет хранить ID таймера
+let timerId; // переменная, которая хранит ID таймера
 
 const startButton = document.getElementById("start");
 startButton.addEventListener("click", function () {
